@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+body{
+    margin-top: 50px;
+    text-align: center;
+}
+#trial{
+    font-size: 150px;
+    font-family: 'pacifico';
+}
+button{
+    margin-right: 30px;
+    margin-bottom: 20px;
+    height: 80px;
+    width: 120px;
+    padding: 10px;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'pacifico';
+    color: white;
+    background-color: rgb(85, 99, 128);
+    box-shadow: 3px 3px 5px 2px rgb(30, 37, 48);
+}
+
+#both{
+    width: 200px;
+    font-size: 25px;
+}
+
+#trial{
+    margin-bottom: 100px;
+}
+
+img{
+    margin-top: 70px;
+    height: 400px;
+    width: 400px;
+}
+#fadeIn,
+#fadeOut,
+#fadeTo,
+#animate,
+#stop{
+    width: 150px;
+    margin-top: 150px;
+}
+
